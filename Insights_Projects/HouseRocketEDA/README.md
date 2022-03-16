@@ -1,5 +1,5 @@
 
-## <p align="center"> <b> INSIGHTS PROJECT - HOUSE ROCKET COMPANY </p> </b>
+## <p align="center"> <b> 🏠🚀 INSIGHTS PROJECT - HOUSE ROCKET COMPANY 🚀🏠 </p> </b>
 
 <!-- <img src="https://github.com/leassis91/Portfolio-Projects/blob/master/HouseRocketEDA/houseexample.jpg?raw=true" width=40% height=40% align="center"/> -->
 
