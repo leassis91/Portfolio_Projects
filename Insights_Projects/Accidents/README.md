@@ -1,4 +1,4 @@
-# <p align="center">🛣️ REDUCING THE NUMBER OF ROAD FATALITY ACCIDENTS IN UK 🚘</p> 
+# <p align="center">🛣️ REDUCING ROAD HIGH FATALITY ACCIDENTS IN UK 🚘</p> 
 
 ## 📖 Background
 We work for the road safety team within the department of transport, and they are looking into how they can reduce the number of major incidents. 
