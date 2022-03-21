@@ -19,7 +19,7 @@ Our goal for this project is to create a report that covers the following:
 
 Through data cleaning, analysis and visualization we will answer these questions in order to help our stakeholder to increase road safety by understanding when and how fatal accidents tend to happen and, consequently, take actions to prevent them and save lives.
 
-This project was inspired by a [DataCamp Competition](https://www.datacamp.com).
+This project was inspired by Giulia Brambilla, in a [DataCamp Competition](https://www.datacamp.com).
 
 ## 💾 Data Understanding
 
