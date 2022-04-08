@@ -101,7 +101,7 @@ Revenue in November has highest amount that has  13,41% revenue from total reven
 - The data is highly skewed, therefore I will perform log transformations to reduce the skewness of each variable and I standardised the data.
 - Finding the optimal number of clusters
 
-![finding k](https://user-images.githubusercontent.com/75175081/127736473-c222dcb1-6bcb-4746-bb11-b38b37f49eba.png)
+![finding k](https://user-images.githubusercontent.com/67332395/162508155-92d464ff-aaa6-4d46-b0a7-957336c9921a.png)
 
 # Evaluating Model: K-Means Clustering
 - Davies Bouldin Score is a metric for evaluating clustering algorithms. 
@@ -114,7 +114,7 @@ K-Means 4 clusters has lowest Davies Bouldin Score than other cluster. Therefore
 - "Cluster 1" has 20% customers. It can be interpreted as “Almost Lost". They purchase recently (R=2). However they do not purchase frequently and do not spent a lot. 
 - "Cluster 2“ has 30% customers. It can be interpreted as "Lost Cheap Customers". Their last purchase is long ago (R=4), purchased very few (F=4) and spent little (M=4).
 - "Cluster 3“has 21% customers. It belongs to the "Best Customers" segment which we saw earlier as they purchase recently (R=1), frequent buyers (F=1), and spent the most (M=1).
-![kmeans 2](https://user-images.githubusercontent.com/75175081/127737861-0f62e50f-359b-4a74-9aa1-b59198d68570.png)
+![kmeans 2](https://user-images.githubusercontent.com/67332395/162507988-9002178c-9da4-4e3f-a353-22541ce4046e.png)
 
 # Recommendation
 - Recommendation for “Best Customers" segment: Focus on increasing customer purchases therefore it is necessary to form a cross/Up Selling Strategy.
