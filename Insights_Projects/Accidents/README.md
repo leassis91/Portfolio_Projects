@@ -1,5 +1,5 @@
 # <p align="center">🛣️ REDUCING ROAD HIGH FATALITY ACCIDENTS IN UK 🚘</p> 
-<p align='center'><img src="https://github.com/leassis91/Portfolio/blob/main/Insights_Projects/Accidents/accident%20prevent-1.jpeg?raw=true"></p>
+<p align='center'><img src="https://github.com/leassis91/Portfolio_Projects/blob/main/Insights_Projects/Accidents/accident%20prevent-1.jpeg?raw=true"></p>
 
 ## 📖 Background
 We work for the road safety team within the department of transport, and they are looking into how they can reduce the number of major incidents. 
